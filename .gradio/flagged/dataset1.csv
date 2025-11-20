@@ -1,0 +1,3 @@
+Age,Gender,Weight (kg),Height (cm),BMI,Smoking Status,Alcohol Intake,Physical Activity,Diet,Stress Level,"Hypertension (0=No, 1=Yes)","Diabetes (0=No, 1=Yes)","Hyperlipidemia (0=No, 1=Yes)","Family History (0=No, 1=Yes)","Previous Heart Attack (0=No, 1=Yes)",Systolic BP (mmHg),Diastolic BP (mmHg),Heart Rate (bpm),Blood Sugar Fasting (mg/dL),Total Cholesterol (mg/dL),Prediction Result,timestamp
+50,,70,170,25,Never,Low,Sedentary,Healthy,Low,0,0,0,0,0,120,80,75,100,200,"Heart Disease Risk: LOW RISK ✓
+Confidence: 100.00%",2025-11-20 23:42:05.992329
