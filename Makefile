@@ -1,7 +1,7 @@
 install:
 	pip install --upgrade pip && \
 	pip install -r requirements.txt && \
-	pip install black cml
+	pip install black cml>=0.20.0
 
 format:
 	black *.py
