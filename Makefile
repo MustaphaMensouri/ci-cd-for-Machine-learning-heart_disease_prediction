@@ -1,11 +1,13 @@
 install:
 	pip install --upgrade pip && \
-	pip install -r requirements.txt
+	pip install -r requirements.txt && \
+	pip install black cml
 
 format:
 	black *.py
 
 train:
+	mkdir -p results
 	python train.py
 
 eval:
